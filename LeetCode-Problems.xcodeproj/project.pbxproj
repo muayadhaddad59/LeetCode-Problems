@@ -8,15 +8,14 @@
 
 /* Begin PBXFileReference section */
 		FAE2676B3007360F0011C3AD /* LeetCode-Problems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetCode-Problems.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAE26779300736310011C3AD /* 189-RotateArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "189-RotateArray.playground"; sourceTree = "<group>"; };
+		FAE2677A300736310011C3AD /* 80-RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "80-RemoveDuplicatesFromSortedArray.playground"; sourceTree = "<group>"; };
+		FAE2677B300736310011C3AD /* 8-MergeSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8-MergeSortedArray.playground"; sourceTree = "<group>"; };
+		FAE2677C300736310011C3AD /* 14-LongestCommonPrefix .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14-LongestCommonPrefix .playground"; sourceTree = "<group>"; };
+		FAE2677D300736310011C3AD /* 13-RomanToInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13-RomanToInteger.playground"; sourceTree = "<group>"; };
+		FAE2677E300736310011C3AD /* 9-PalindromeNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9-PalindromeNumbers.playground"; sourceTree = "<group>"; };
+		FAE2677F300736310011C3AD /* 1-TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1-TwoSum.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		FAE2676D3007360F0011C3AD /* LeetCode-Problems */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "LeetCode-Problems";
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		FAE267683007360F0011C3AD /* Frameworks */ = {
@@ -32,7 +31,13 @@
 		FAE267623007360F0011C3AD = {
 			isa = PBXGroup;
 			children = (
-				FAE2676D3007360F0011C3AD /* LeetCode-Problems */,
+				FAE26779300736310011C3AD /* 189-RotateArray.playground */,
+				FAE2677A300736310011C3AD /* 80-RemoveDuplicatesFromSortedArray.playground */,
+				FAE2677B300736310011C3AD /* 8-MergeSortedArray.playground */,
+				FAE2677C300736310011C3AD /* 14-LongestCommonPrefix .playground */,
+				FAE2677D300736310011C3AD /* 13-RomanToInteger.playground */,
+				FAE2677E300736310011C3AD /* 9-PalindromeNumbers.playground */,
+				FAE2677F300736310011C3AD /* 1-TwoSum.playground */,
 				FAE2676C3007360F0011C3AD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,9 +64,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				FAE2676D3007360F0011C3AD /* LeetCode-Problems */,
 			);
 			name = "LeetCode-Problems";
 			packageProductDependencies = (
